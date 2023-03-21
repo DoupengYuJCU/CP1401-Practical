@@ -1,0 +1,51 @@
+Logic Exercise：
+Smith is a project manager
+Brown is a consultant
+Jones is a programmer
+
+
+Algorithms：
+get dose,  yield, ratio
+brew = ( dose * yield ) / ratio
+display brew
+
+get price, money
+if price>money
+    display cannot afford
+else
+    display can afford
+print decisions
+
+Pick up things on the floor
+While things on the floor
+    pick up them
+Repeat
+
+
+Problem Decomposition:
+1.
+Nouns: doctor, total amount of drug, patient, system, hourly dosage, user, number of hours,
+medicine, total
+Verbs: calculate, get, display
+Get hourly dosage, number of hours
+Total = hourly dosage * number of hours
+Display total
+
+2.
+Nous: happy photos, way, total charge, customer booking, system, date of booking, customer
+name, booking ID, hourly charge, number of hours
+Verbs: calculate, use, make, entered, displayed
+Get customer name, date of booking
+Booking ID = customer + date of booking
+Total charge = hourly charge * number of hours
+Display total charge
+Display booking ID
+
+3.
+Nouns: user, road trip planning system, travelled distance in km, travel time in mins, average speed
+in km/h,trip
+Verbs: ask, will be shown
+Get travelled distance in km, travel time in mins
+Travel time in hours = travel time in mins/60
+Average speed in km/h = travelled distance in km/travel time in hours
+Display average speed in km/h
