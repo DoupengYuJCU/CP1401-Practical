@@ -1,0 +1,11 @@
+Quick Questions
+1.total_day,hour_of_week
+2.day,hour
+3.total number, this-week
+4.Numbers cannot be used as the beginning and system keywords cannot be used as variable names.
+5.constants are constant quantities, values that do not change during program operation.
+6.Using capital letters.
+
+Logic Exercise
+fewest number is 3
+If the first time you get white, the second time it may be black or white, and the third time you get a pair of socks of the same colour in either colour
