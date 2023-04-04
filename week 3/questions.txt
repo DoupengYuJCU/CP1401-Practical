@@ -1,0 +1,19 @@
+Quick Questions
+1.!= The "not equal to" operator is a function that flags two different values as not equal
+2.<=
+3.True
+4.True
+5.True
+6.True
+
+Patterns
+1. if elif, else
+2. if, no else
+3.if ,if ,if
+4. if ,elif else
+5.if else
+6.if else
+7.if else
+
+Logic Exercise
+When Alice is the youngest, because of the description of Carl,Alice has to be the oldest at the same time, so Alice cannot be the youngest one.So Bill is the youngest. And because Alice is the oldest when Carl is not the youngest, Alice is the oldest.
