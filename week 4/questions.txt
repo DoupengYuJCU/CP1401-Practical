@@ -1,0 +1,29 @@
+Quick Questions
+1.for Windows it is ctrl+/
+2.for,while
+3.A sentinel is a value that stops the loop.
+4.It does not follow proper naming rules,no underlining.
+5.Augmented operators have extended functions which can operate two operations.
+
+Range
+(a)
+1. 0 1 2 3 4 5
+2. 33 34 35 36 37 38
+3. 17 16 15 14 13 12
+4. 1 0 1 0 1 0 1 0 1 0
+5. 100>64>36>16>4
+(b)
+1.range(6)
+2.range(1,14,4)
+3.range(3,0,-1)
+4.range(7,-6,-3)
+
+Patterns
+1.while
+2.while
+3.for
+4.for
+5.for
+
+Logic Exercise
+As all three boxes are incorrectly labelled, draw a marble from the box labelled two black, and if the marble is black then the other one must not be black. In the other box labelled one black and one white, there may be two white balls or two black balls. If there is one black and one white in this box, in then the other box labelled two white, there must be two black balls, then the box labelled two black is two white balls. So only that one ball is needed.
