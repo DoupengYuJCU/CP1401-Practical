@@ -1,0 +1,14 @@
+1. Ctrl + /
+2. Single Responsibility Principle
+3. return
+4.Parameter is a variable inside the function definition and argument gets passed to function when it's called
+5. random.randint(1,100)
+6. input() random.randint()  print()
+7. 18.6g
+
+1. determine_grade
+2. convert_USD_to_AUD
+3. display_report
+4. calculate_average
+5. determine_even
+6. get_salary
