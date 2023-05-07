@@ -1,0 +1,15 @@
+Quick Questions
+1.below the import function but above the main function
+2.can make debugging very difficult, make the program more difficult to understand
+3.different scope
+4.breakpoint
+5. invalid syntax
+6. single responsibility
+
+Logic Exercise
+Yes
+
+Reflection
+The first problem was that I did not know how to use 'Docstrings' and by looking back at previous lessons I learnt how to apply 'Docstrings'.
+The second problem was that I couldn't understand the formatting issues accurately, making so I searched the internet and learned about it.
+The third problem was that I couldn't understand the use of "def", so I went through the relevant PowerPoint and video repeatedly to solve this problem.
