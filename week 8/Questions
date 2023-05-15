@@ -1,0 +1,25 @@
+Quick Questions
+1. List are mutable whilst tuples are immutable
+2. Lists are named with plural terms
+3. cities
+4. 536,870,912 elements for a 32 bit system
+5. false
+6. The len function in python is used to return the number of items in an object, it can be used with string, lists, tuples, etc
+
+
+Warmup part 1
+numbers[0] = 10
+numbers[-1] = 81
+numbers[3] = 81
+20 in numbers = 1
+1 in numbers = error
+numbers[1] + numbers[2] = 60
+len(numbers) = 4
+
+
+Warmup part 2
+1. numbers[0] = 1
+2. numbers[-1] = 4
+3.  if 1 in numbers:
+     print("True")
+4. numbers[1] * 10
