@@ -1,0 +1,13 @@
+1.r is for read default mode,the read method reads the entire file
+ contents into one string
+2.The file object is created by an open function that will associate it with a file.
+3.Because it might delete your data or make the file unaccessible
+4.if a value is used more than once
+5.dot = filename.find(".")
+print(filename[dot+1: len(filename)])
+6.2
+
+Logic Exercise
+There is exactly two true statements
+There is exactly one true statement
+There is no true statements
